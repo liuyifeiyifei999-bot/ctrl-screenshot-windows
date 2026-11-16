@@ -1,5 +1,8 @@
 # Ctrl Screenshot
 
+> **历史免费仓冻结说明 / Frozen Free-History Repository**  
+> 本公共仓仅保留免费、免登录、免联网历史版；当前 Pro 商业源码、EXE、授权与发布候选均不在此仓库。该仓库不再作为当前商业版本主线维护。  
+
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![No Internet](https://img.shields.io/badge/Internet-Not%20Required-brightgreen)
